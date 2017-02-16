@@ -8,4 +8,9 @@ This is a self-learning directory changer for navigating your filesystem. It wor
 Atom is a text editor that's modern, approachable, yet hackable to the core—a tool you can customize to do anything but also use productively without ever touching a config file.
 
 - Packages
-  - ex1
+  - [atom-typescript](https://atom.io/packages/atom-typescript)
+  - [color-picker](https://atom.io/packages/color-picker)
+  - [file-icons](https://atom.io/packages/file-icons)
+  
+- Themes
+  - [humble-colors-syntax](https://atom.io/themes/humble-colors-syntax)
